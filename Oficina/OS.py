@@ -66,3 +66,6 @@ else:
         print("-" + item)
 
 print("\n... Fim da versão simples. Vou modificando conforme meu aprendizado. ")
+
+
+
